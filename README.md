@@ -1,4 +1,5 @@
 ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejamesgore&theme=omni&show_icons=true) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thejamesgore&theme=blue-green)
 <!--
 ### Hi there 👋
 
