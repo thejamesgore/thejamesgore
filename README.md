@@ -19,7 +19,7 @@
 <div>
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img  alt="PostgreSQL" src="https://img.shields.io/badge/postgresQL-%2300f.svg?style=for-the-badge&logo=postgres&logoColor=white"/>
+  <img  alt="PostgreSQL" src="https://img.shields.io/badge/postgresQL-white.svg?style=for-the-badge&logo=postgresql&logoColor=blue"/>
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </div>
 
