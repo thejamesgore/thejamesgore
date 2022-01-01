@@ -22,7 +22,7 @@
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </div>
 
-### Backend
+### Mobile
 <div>
   <img  alt="React-Native" src="https://img.shields.io/badge/react-native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="Exponent" src="https://img.shields.io/badge/exponent-white.svg?style=for-the-badge&logo=expo&logoColor=blue"/>
