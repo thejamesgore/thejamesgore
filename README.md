@@ -1,4 +1,4 @@
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=thejamesgore&theme=omni&show_icons=true)![James's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejamesgore&layout=compact&theme=omni)
+![James's GitHub stat](https://github-readme-stats.vercel.app/api?username=thejamesgore&theme=omni&show_icons=true)![James's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejamesgore&layout=compact&theme=omni)
 
 ## Technologies currently using
 
