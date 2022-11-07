@@ -1,12 +1,12 @@
 ![James's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejamesgore&layout=compact&theme=omni)
 
 
-Technologies I have commercial experience with:
+Technologies I have 2+ years commercial experience with:
 
-JavaScript | Python | React | React Native | Expo | Redux | Context | Tailwind CSS
-AWS | Node | Mongoose | Express | Django | MongoDB | PostgreSQL
-HTML5 | CSS3 | SASS 
-Git | Github
+- JavaScript | Python | React | React Native | Expo | Redux | Context | Tailwind CSS
+- AWS | Node | Mongoose | Express | Django | MongoDB | PostgreSQL
+- HTML5 | CSS3 | SASS 
+- Git | Github
 
 - 🔭 I’m currently working - As a Full Stack Developer creating a web and mobile app for a Language Company in London
 - 🌱 I’m currently learning - TypeScript
