@@ -11,7 +11,7 @@ Technologies I have 2+ years commercial experience with:
 - 🔭 I’m currently working - As a Full Stack Developer creating a web and mobile app for a Language Company in London
 - 🌱 I’m currently learning - TypeScript
 - 👯 I’m looking to collaborate on - Any open source project 
-- 📫 How to reach me - +44 (0) 7312 899 427 
+- 📫 How to reach me - +44 (0) 7312 899 427 // linkedin.com/in/james-spencer-gore // CV upon request
 
 <!-- ## Technologies currently using
 
