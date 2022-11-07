@@ -1,6 +1,18 @@
-![James's GitHub stat](https://github-readme-stats.vercel.app/api?username=thejamesgore&theme=omni&show_icons=true)![James's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejamesgore&layout=compact&theme=omni)
+[James's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejamesgore&layout=compact&theme=omni)
 
-## Technologies currently using
+Technologies I have commercial experience with:
+
+JavaScript | Python | React | React Native | Expo | Redux | Context | Tailwind CSS
+AWS | Node | Mongoose | Express | Django | MongoDB | PostgreSQL
+HTML5 | CSS3 | SASS 
+Git | Github
+
+- 🔭 I’m currently working - As a Full Stack Developer creating a web and mobile app for a Language Company in London
+- 🌱 I’m currently learning - TypeScript
+- 👯 I’m looking to collaborate on - Any open source project 
+- 📫 How to reach me - +44 (0) 7312 899 427 
+
+<!-- ## Technologies currently using
 
 ### Frontend
 <div>
@@ -20,7 +32,7 @@
   <img  alt="Django" src="https://img.shields.io/badge/django-blue.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img  alt="PostgreSQL" src="https://img.shields.io/badge/postgresQL-white.svg?style=for-the-badge&logo=postgresql&logoColor=blue"/>
   <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-</div>
+</div> -->
 
 <!--
 
