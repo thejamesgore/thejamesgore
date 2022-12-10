@@ -8,7 +8,7 @@ Technologies I have 2+ years commercial experience with:
 - HTML5 | CSS3 | SASS 
 - Git | Github
 
-- 🔭 I’m currently working - As a Full Stack Developer creating a web and mobile app for a Language Company in London
+- 🔭 I’m currently working - As a Full Stack Developer web and mobile app for an agency in London
 - 🌱 I’m currently learning - TypeScript & NextJS
 - 👯 I’m looking to collaborate on - Any open source project 
 - 📫 How to reach me - +44 (0) 7312 899 427 // linkedin.com/in/james-spencer-gore // CV upon request
