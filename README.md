@@ -1,4 +1,3 @@
-![James's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejamesgore&layout=compact&theme=omni)
 
 
 Technologies I have 2+ years commercial experience with:
@@ -12,6 +11,25 @@ Technologies I have 2+ years commercial experience with:
 - 🌱 I’m currently learning - TypeScript & NextJS
 - 👯 I’m looking to collaborate on - Any open source project 
 - 📫 How to reach me - +44 (0) 7312 899 427 // linkedin.com/in/james-spencer-gore // CV upon request
+
+<hr/>
+<div align="center">
+   
+
+<table>
+<tr>
+<td width="25%">
+<a href="http://www.github.com/jamesgorecodes"><img src="https://streak-stats.demolab.com?user=thejamesgore&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/></a> 
+
+</td>
+<td width="25%">
+ <a href="http://www.github.com/aniqatc"><img src="https://github-readme-stats.vercel.app/api?username=thejamesgore&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight" /></a>
+ 
+</table>
+  
+ 
+</div>
+
 
 <!-- ## Technologies currently using
 
