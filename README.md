@@ -23,7 +23,7 @@ Technologies I have 2+ years commercial experience with:
 
 </td>
 <td width="25%">
- <a href="http://www.github.com/thejamesgore"><img src="https://github-readme-stats.vercel.app/api?username=thejamesgore&show_icons=true&theme=tokyonight" /></a>
+ <a href="http://www.github.com/thejamesgore"><img src="https://github-readme-stats.vercel.app/api?username=thejamesgore&show_icons=true&theme=tokyonight&hide_border=true" /></a>
  
 </table>
   
