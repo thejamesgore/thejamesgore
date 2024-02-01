@@ -9,9 +9,9 @@ Technologies I have commercial experience with:
 - __Methodologies:__   _Agile/Scrum | Test-driven Development (TDD) | Continuous Integration & Deployment (CI/CD)_
 
 - 🔭 I’m currently working - As a Full Stack Developer web and mobile app for an agency in London
-- 🌱 I’m currently learning - TypeScript & NextJS
+- 🌱 I’m currently learning - NextJS
 - 👯 I’m looking to collaborate on - Any open source project 
-- 📫 How to reach me - +44 (0) 7312 899 427 // linkedin.com/in/james-spencer-gore // CV upon request
+- 📫 How to reach me - @jamesgorecodes on Twitter & Medium - CV upon request
 
 <hr/>
 <div align="center">
