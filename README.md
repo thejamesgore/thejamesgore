@@ -3,12 +3,12 @@
 Technologies I have commercial experience with:
 
 - __Languages:__   _JavaScript | TypeScript | Python | HTML5 | CSS3 | SQL_
-- __Frameworks/Libraries:__   _React | Next | Redux | Node | Express | Django | TailwindCSS | MaterialUI_
+- __Frameworks/Libraries:__   React | Next | Vue | React-Native | Redux | Node | Express | Django | TailwindCSS | MaterialUI_
 - __Databases:__   _MongoDB | MySQL | PostgreSQL_
 - __Tools:__   _Git | Jira | Webpack/Turbopack | NPM | Yarn | Docker | AWS | Google Cloud Platform | RESTful APIs_
 - __Methodologies:__   _Agile/Scrum | Test-driven Development (TDD) | Continuous Integration & Deployment (CI/CD)_
 
-- 🔭 I’m currently working - As a Full Stack Developer web and mobile app for an agency in London
+- 🔭 I’m currently working - As a Frontend Engineer at a FinTech
 - 🌱 I’m currently learning - NextJS
 - 👯 I’m looking to collaborate on - Any open source project 
 - 📫 How to reach me - @jamesgorecodes on Twitter & Medium - CV upon request
