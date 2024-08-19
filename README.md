@@ -2,14 +2,14 @@
 
 Technologies I have commercial experience with:
 
-- __Languages:__   _JavaScript | TypeScript | Python | HTML5 | CSS3 | SQL_
-- __Frameworks/Libraries:__   React | Next | Vue | React-Native | Redux | Node | Express | Django | TailwindCSS | MaterialUI_
+- __Languages:__   _JavaScript (ES6) | TypeScript | Python | Java | HTML5 | CSS3 | SQL_
+- __Frameworks/Libraries:__   _React | NextJS 14 | Vue | React-Native | Redux | Node | Express | Django | TailwindCSS | MaterialUI_
 - __Databases:__   _MongoDB | MySQL | PostgreSQL_
-- __Tools:__   _Git | Jira | Webpack/Turbopack | NPM | Yarn | Docker | AWS | Google Cloud Platform | RESTful APIs_
-- __Methodologies:__   _Agile/Scrum | Test-driven Development (TDD) | Continuous Integration & Deployment (CI/CD)_
+- __Tools:__   _Git/Gitlab | AWS | Docker | Jenkins | Google Cloud / Firebase | RESTful APIs | React Testing Library | Jest | Webpack | Babel | NPM | Storybook | Datadog | SonarQube | Confluence | React Profiler | Jira_
+- __Methodologies:__  _Agile/Scrum | Test-driven Development (TDD) | BDD (cucumber) | Continuous Integration & Deployment (CI/CD)_
 
-- 🔭 I’m currently working - As a Frontend Engineer at a FinTech
-- 🌱 I’m currently learning - NextJS
+- 🔭 I’m currently working - As a Mid Level Frontend Developer at a FinTech
+- 🌱 I’m currently learning - Kotlin for fun 🤩
 - 👯 I’m looking to collaborate on - Any open source project 
 - 📫 How to reach me - @jamesgorecodes on Twitter & Medium - CV upon request
 
