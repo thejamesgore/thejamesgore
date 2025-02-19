@@ -9,7 +9,7 @@ Technologies I have commercial experience with:
 - __Methodologies:__  _Agile/Scrum | Test-driven Development (TDD) | BDD (cucumber) | Continuous Integration & Deployment (CI/CD)_
 
 - 🔭 I’m currently working - As a Mid Level Frontend Developer at a FinTech
-- 🌱 I’m currently learning - Kotlin for fun 🤩
+- 🌱 I’m currently learning - It's a secret until end of 2026
 - 👯 I’m looking to collaborate on - Any open source project 
 - 📫 How to reach me - @jamesgorecodes on Twitter & Medium - CV upon request
 
