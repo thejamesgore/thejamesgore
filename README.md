@@ -2,6 +2,8 @@
 
 I'm a **Frontend Engineer with 6+ years of commercial experience**, specialising in **release engineering, observability, and performance optimisation** across greenfield and legacy systems. 
 
+I'm a **Frontend Engineer** with 6+ years of commercial experience, building high-quality, scalable applications. Alongside delivering features, I specialise in release engineering, observability, and performance optimisation, ensuring reliable deployments and seamless user experiences across both greenfield and legacy systems.
+
 ---
 
 ### 🚀 Technologies I work with
