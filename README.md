@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm James Gore
 
-I'm a **Frontend Engineer with 6+ years of commercial experience**, specialising in **release engineering, observability, and performance optimisation** across greenfield and legacy systems. 
-
 I'm a **Frontend Engineer** with 6+ years of commercial experience, building high-quality, scalable applications. Alongside delivering features, I specialise in release engineering, observability, and performance optimisation, ensuring reliable deployments and seamless user experiences across both greenfield and legacy systems.
 
 ---
@@ -20,7 +18,6 @@ I'm a **Frontend Engineer** with 6+ years of commercial experience, building hig
 ---
 
 ### 📌 Current focus
-- Working for a FinTech
 - Completing an **MSc in Computer Science** (avg. 92%, First-class) with academic focus on **AI, LLMs, & Software Engineering**.  
 
 ---
